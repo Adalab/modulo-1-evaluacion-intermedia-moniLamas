@@ -41,7 +41,6 @@ html {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
     background-color: var(--band-color);
 }
 
@@ -49,5 +48,8 @@ html {
     color: #fff;
     font-size: 30px;
     font-weight: 700;
+    line-height: 50px;
+    margin: 60px;
+    text-align: center;
     
 }
