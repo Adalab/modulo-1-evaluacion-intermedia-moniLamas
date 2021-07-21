@@ -17,7 +17,7 @@ html {
 
 .header {
     background-color: #fff;
-    position:fixed;
+    position: fixed;
     width: 100vw;
 }
 
@@ -57,5 +57,25 @@ html {
     line-height: 40px;
     margin: auto 60px;
     text-align: center;
-    
+
+}
+
+/* TABLET AND DESKTOP */
+
+@media screen and (min-width: 768px) {
+
+
+
+    .lema {
+        font-size: 40px;
+        line-height: 60px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .lema h1 {
+        width: 300px;
+    }
+
 }
