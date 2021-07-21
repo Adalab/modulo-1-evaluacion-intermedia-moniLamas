@@ -20,7 +20,12 @@ html {
 }
 
 .logo {
-    display: flex;
-    align-items: center;
+    width: 155px;
+    display: block;
+    margin: 10px auto;
+    }
+
+.nav-bar {
+   
 }
 
