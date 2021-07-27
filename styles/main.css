@@ -53,6 +53,7 @@ html {
     line-height: 40px;
     margin: auto 60px;
     text-align: center;
+    text-transform: capitalize;
 
 }
 
