@@ -65,16 +65,12 @@ html {
         flex-direction: row;
         align-items: center;
         justify-content: space-between;
+        padding: 20px 30px;
     }
 
-    .logo {
-        margin: 20px 30px;
+    .link {
+        padding: 20px 10px;
     }
-
-    .nav-bar {
-        margin-right: 30px;
-    }
-
 
     .lema {
         font-size: 40px;
